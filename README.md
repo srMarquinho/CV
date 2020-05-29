@@ -1,4 +1,5 @@
-# Marco Araujo </br><a href="https://www.codewars.com/users/srMarquinho"><img align="right" src="https://www.codewars.com/users/srMarquinho/badges/micro"></a>
+# Marco Araujo <a href="https://www.codewars.com/users/srMarquinho"><img align="right" src="https://www.codewars.com/users/srMarquinho/badges/micro"></a>
+
 <p align="center">
   <a href="#skills">Skills</a> &bull;
   <a href="#projects">Projects</a> &bull;

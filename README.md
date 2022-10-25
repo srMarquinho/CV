@@ -30,6 +30,8 @@ Key Achievements:
 
 - Leveraged the team, providing mentoring through project’s execution.
 
+- Moleculer.js contributor.
+
 Core Technology Skills:
 
 - JavaScript, TypeScript, Ruby, Python

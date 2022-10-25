@@ -30,7 +30,7 @@ Key Achievements:
 
 - Leveraged the team, providing mentoring through project’s execution.
 
-- Moleculer.js contributor.
+- Moleculer.js source code contributor.
 
 Core Technology Skills:
 

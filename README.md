@@ -14,11 +14,11 @@
 
 ----------
 
-With many years of experience I started my career with a software development company creating and maintaining softwares of all sorts, user and admin facing, from warehouse delivery solutions to a government job-seeker site.
+With many years of experience, I started my career with a software development company creating and maintaining software of all sorts, user and admin-facing, from warehouse delivery solutions to a government job-seeker site.
 
-Since then, I have been delivering solutions for high profile companies and customers always using the best cutting-edge technologies and methodologies available.
+Since then, I have been delivering solutions for high-profile companies and customers always using the best cutting-edge technologies and methodologies available.
 
-Over the last 5 years I have been powering the combination of media and data sources and the building of new content experiences for users through a uniq powerful workflow. Integrating multiple live data sources, from live HD high frame rate video to high-frequency telemetry and timing with consistent accessible data query APIs.
+Over the last 5 years, I have been powering the combination of media and data sources and the building of new content experiences for users through a unique powerful workflow. Integrating multiple live data sources, from live HD high frame rate video to high-frequency telemetry and timing with consistent accessible data query APIs.
 
 Key Achievements:
 
@@ -28,7 +28,7 @@ Key Achievements:
 
 - Pivotal role in designing and creating UI/UX for the main application for *Formula 1* and *MotoGP*. A merge of video streaming and data.
 
-- Leveraged the team, providing mentoring through project’s execution.
+- Leveraged the team, providing mentoring through project execution.
 
 - Moleculer.js source code contributor.
 
@@ -44,13 +44,15 @@ Core Technology Skills:
 
 - Docker, Kubernetes, Docker-Compose
 
-- CI/CD - Bitbucket pipeline, Github Actions
+- CI/CD - Bitbucket pipeline, GitHub Actions
 
 - DB - Mongo, Elasticsearch, SQL (Postgres and MySQL)
 
 - Complex events and streaming data processing
 
 - Microservices
+
+I'm passionate about learning new technologies as they evolve.
 
 ----------
 

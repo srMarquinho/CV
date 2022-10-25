@@ -14,7 +14,7 @@
 
 ----------
 
-With many years of experience I started my career with a software development company creating and maintaining softwares of all sorts, user and admin facing, from warehouse delivery solutions to job-seeker site.
+With many years of experience I started my career with a software development company creating and maintaining softwares of all sorts, user and admin facing, from warehouse delivery solutions to a government job-seeker site.
 
 Since then, I have been delivering solutions for high profile companies and customers always using the best cutting-edge technologies and methodologies available.
 

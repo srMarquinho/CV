@@ -1,13 +1,11 @@
 # Marco Araujo <a href="https://www.codewars.com/users/srMarquinho"><img align="right" src="https://www.codewars.com/users/srMarquinho/badges/micro"></a>
 
 <p align="center">
-  <a href="#skills">Skills</a>
-  &bull;
-  <a href="#projects">Projects</a>
-  &bull;
   <a href="#education">Education</a>
   &bull;
   <a href="#experience">Experience</a>
+  &bull;
+  <a href="#projects">Projects</a>
   &bull;
   <a href="#hobbies">Hobbies</a>
   &bull;

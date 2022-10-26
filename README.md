@@ -3,9 +3,9 @@
 <p align="center">
   <a href="#education">Education</a>
   &bull;
-  <a href="#courses">Courses</a>
-  &bull;
   <a href="#experience">Experience</a>
+  &bull;
+  <a href="#courses">Courses</a>
   &bull;
   <a href="#projects">Projects</a>
   &bull;
@@ -58,36 +58,6 @@ I'm passionate about learning new technologies as they evolve.
 
 ----------
 
-### Education
-
-##### Full-Stack Web Development @ [Makers Academy](http://www.makersacademy.com/curriculum/) (May - Aug '16)
-
-- Agile methodologies
-
-- Object-oriented design
-
-- Test driven development (TDD) and behaviour driven development (BDD)
-
-- Ruby, JavaScript and more
-
-##### Master's Degree @ Universidad de Jaen (Jan '10 - Dec '14)
-
-- Foreign Language Teaching Education
-
-##### Bachelor's Degree @ FSA (Jan '02 - Dec '05)
-
-- Pedagogy (Education) - Management and Teaching
-
-----------
-
-### <a name="courses"></a>Relevant Courses
-
-##### Kafka Streams for Data Processing @ Udemy (Dec '21)
-
-- Hands-On Kafka Streams API, Build and Deploy Apps with Java
-
-----------
-
 ### <a name="experience"></a>Relevant Experiences
 
 ##### [Bspoke Global Networks Ltd (BGN)](http://bgnevents.com/) - Hove - ('18 - present)
@@ -129,6 +99,36 @@ Software Developer
 - *Skills:* JavaScript · Ruby · Ruby on Rails · Microservices · SQL · System Architecture · Web Development · Software Development · Back-End Web Development · Front-end Development · Web Applications · Web Services · Software Documentation · Subversion · Unix · jQuery · Communication · Linux · HTML · HTML5 · Cascading Style Sheets (CSS)
 
 > \* More experiences on request.
+
+----------
+
+### Education
+
+##### Full-Stack Web Development @ [Makers Academy](http://www.makersacademy.com/curriculum/) (May - Aug '16)
+
+- Agile methodologies
+
+- Object-oriented design
+
+- Test driven development (TDD) and behaviour driven development (BDD)
+
+- Ruby, JavaScript and more
+
+##### Master's Degree @ Universidad de Jaen (Jan '10 - Dec '14)
+
+- Foreign Language Teaching Education
+
+##### Bachelor's Degree @ FSA (Jan '02 - Dec '05)
+
+- Pedagogy (Education) - Management and Teaching
+
+----------
+
+### <a name="courses"></a>Relevant Courses
+
+##### Kafka Streams for Data Processing @ Udemy (Dec '21)
+
+- Hands-On Kafka Streams API, Build and Deploy Apps with Java
 
 ----------
 

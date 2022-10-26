@@ -3,6 +3,8 @@
 <p align="center">
   <a href="#education">Education</a>
   &bull;
+  <a href="#courses">Courses</a>
+  &bull;
   <a href="#experience">Experience</a>
   &bull;
   <a href="#projects">Projects</a>
@@ -72,9 +74,17 @@ I'm passionate about learning new technologies as they evolve.
 
 - Foreign Language Teaching Education
 
-##### Bachelor's Degree @ FSA (Jan '02 - dec '05)
+##### Bachelor's Degree @ FSA (Jan '02 - Dec '05)
 
 - Pedagogy (Education) - Management and Teaching
+
+----------
+
+### <a name="courses"></a>Relevant Courses
+
+##### Kafka Streams for Data Processing @ Udemy (Dec '21)
+
+- Hands-On Kafka Streams API, Build and Deploy Apps with Java
 
 ----------
 

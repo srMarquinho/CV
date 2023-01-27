@@ -62,7 +62,7 @@ I'm passionate about learning new technologies as they evolve.
 
 ##### [Bspoke Global Networks Ltd (BGN)](http://bgnevents.com/) - Hove - ('18 - present)
 
-Software Developer
+Senior Software Engineer
 
 - Supporting existing clients and internal teams live on-site (track), including Formula1 and MotoGP.
 

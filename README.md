@@ -14,7 +14,7 @@
   <a href="#contact">Contact</a>
 </p>
 
-[:printer: **PDF**](https://drive.google.com/file/d/1c2b-nEEdHw8bjUmuke9aR20GeP3xekyp/view?usp=sharing)
+<p align="right">[:printer: **PDF**](https://drive.google.com/file/d/1c2b-nEEdHw8bjUmuke9aR20GeP3xekyp/view?usp=sharing)</p>
 
 ---
 

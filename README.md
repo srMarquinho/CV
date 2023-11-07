@@ -62,7 +62,7 @@ I'm passionate about learning new technologies as they evolve.
 
 ### <a name="experience"></a>Relevant Experiences
 
-##### [Mizaic](https://www.mizaic.com/) - Chelmsford (Remote) - ('18 - '23)
+##### [Mizaic](https://www.mizaic.com/) - Chelmsford (Remote) - ('23 - current)
 
 **Full Stack Senior Software Developer**
 

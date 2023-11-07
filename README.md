@@ -5,9 +5,9 @@
   &bull;
   <a href="#experience">Experience</a>
   &bull;
-  <a href="#courses">Courses</a>
+  <a href="#education">Education & Courses</a>
   &bull;
-  <a href="#projects">Projects</a>
+  <a href="#projects">Personal Projects</a>
   &bull;
   <a href="#hobbies">Hobbies</a>
   &bull;
@@ -139,7 +139,7 @@ See: https://bgnelements.com/what-is-elements
 
 ----------
 
-### Education
+## <a name="education"></a> Education
 
 ##### Full-Stack Web Development @ [Makers Academy](http://www.makersacademy.com/curriculum/) (May - Aug '16)
 
@@ -169,9 +169,9 @@ See: https://bgnelements.com/what-is-elements
 
 ----------
 
-### <a name="projects"></a>Early Projects
+### <a name="projects"></a>Personal Projects
 
-* Source code (and more silly things) available on Github: https://github.com/srMarquinho
+* Available on Github: https://github.com/srMarquinho
 
 ----------
 
@@ -181,7 +181,7 @@ See: https://bgnelements.com/what-is-elements
 
 - I like go-karting and snowboarding.
 
-- I love summer walks and spending time with my family.
+- I love summer walks and spending time with family.
 
 ----------
 

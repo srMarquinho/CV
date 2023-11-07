@@ -17,7 +17,7 @@
 </p>
 
 
----
+----
 
 Former educator and manager with extensive experience in software development, including warehouse delivery solutions, government websites and Formula 1 strategy content delivery. I have a track record of delivering solutions for high-profile companies, always leveraging cutting-edge technologies and methodologies.
 
@@ -39,7 +39,7 @@ In my previous role at Bspoke Global Networks Ltd (BGN), I powered the integrati
 
 I'm passionate about learning new technologies as they evolve.
 
----
+----
 
 ## <a name="experience"></a>Relevant Experiences
 
@@ -93,7 +93,7 @@ See: [https://bgnelements.com/what-is-elements](https://bgnelements.com/what-is-
 
 #### *More experiences on request.*
 
----
+----
 
 ## <a name="education"></a> Education
 
@@ -112,7 +112,7 @@ See: [https://bgnelements.com/what-is-elements](https://bgnelements.com/what-is-
 
 - Pedagogy (Education) - Management and Teaching.
 
----
+----
 
 ## <a name="courses"></a>Relevant Courses
 
@@ -120,14 +120,14 @@ See: [https://bgnelements.com/what-is-elements](https://bgnelements.com/what-is-
 
 - Hands-On Kafka Streams API, Build and Deploy Apps with Java.
 
----
+----
 
 ## <a name="projects"></a>Personal Projects
 
 - [ultimate-dividend-portfolio](https://srmarquinho.github.io/ultimate-dividend-portfolio/)
 - More on [GitHub](https://github.com/srMarquinho)
 
----
+----
 
 ## <a name="hobbies"></a>Hobbies and Interests
 
@@ -135,7 +135,7 @@ See: [https://bgnelements.com/what-is-elements](https://bgnelements.com/what-is-
 - Enjoy go-karting and snowboarding.
 - Love summer walks and spending time with family.
 
----
+----
 
 ## <a name="contact"></a>:shipit: Find me!
 

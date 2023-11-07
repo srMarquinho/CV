@@ -1,5 +1,6 @@
 # Marco Araujo <a href="https://www.codewars.com/users/srMarquinho"><img align="right" src="https://www.codewars.com/users/srMarquinho/badges/micro"></a>
-<a href="https://drive.google.com/file/d/1c2b-nEEdHw8bjUmuke9aR20GeP3xekyp/view?usp=sharing" target=”_blank” rel="noopener noreferrer"><b align="right">PDF</b></a>:printer:
+
+ <a href="https://drive.google.com/file/d/1c2b-nEEdHw8bjUmuke9aR20GeP3xekyp/view?usp=sharing"><b align="right">PDF version</b></a>
 
 <p align="center">
   <a href="#experience">Experiences</a>
@@ -14,6 +15,7 @@
   &bull;
   <a href="#contact">Contact</a>
 </p>
+
 
 ---
 

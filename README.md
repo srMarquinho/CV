@@ -66,7 +66,7 @@ I'm passionate about learning new technologies as they evolve.
 
 **Full Stack Senior Software Developer**
 
-See: https://www.mizaic.com/mediviewer/
+See: [https://www.mizaic.com/mediviewer/](https://www.mizaic.com/mediviewer/)
 
 - Extensive hands-on experience in TypeScript and JavaScript development
 
@@ -99,7 +99,7 @@ See: https://www.mizaic.com/mediviewer/
 
 **Senior Software Engineer**
 
-See: https://bgnelements.com/what-is-elements
+See: [https://bgnelements.com/what-is-elements](https://bgnelements.com/what-is-elements)
 
 - Supporting existing clients and internal teams live on-site (track), including Formula1 and MotoGP.
 

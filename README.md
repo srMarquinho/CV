@@ -91,7 +91,7 @@ See: [https://bgnelements.com/what-is-elements](https://bgnelements.com/what-is-
 
 *Skills:* JavaScript, Ruby, Ruby on Rails, Microservices, SQL, System Architecture, Web Development, Software Development, Back-End Web Development, Front-end Development, Web Applications, Web Services, Software Documentation, Subversion, Unix, jQuery, Communication, Linux, HTML, HTML5, Cascading Style Sheets (CSS).
 
-> *More experiences on request.*
+#### *More experiences on request.*
 
 ---
 

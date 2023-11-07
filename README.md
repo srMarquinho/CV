@@ -20,7 +20,7 @@
 
 Former educator and manager with extensive experience in software development, including warehouse delivery solutions and government job-seeker websites. I have a track record of delivering solutions for high-profile companies, always leveraging cutting-edge technologies and methodologies.
 
-Currently at Mizaic, I'm revolutionizing the clinician-patient experience by developing an Electronic Document Management System tailored for the NHS. I transform physical, unstructured, and legacy records into digital, organized, searchable, and shareable content.
+Currently, at Mizaic, I'm revolutionizing the clinician-patient experience by developing an Electronic Document Management System tailored for the NHS. I transform physical, unstructured, and legacy records into digital, organized, searchable, and shareable content.
 
 In my previous role at Bspoke Global Networks Ltd (BGN), I powered the integration of media and data sources, building new content experiences for users through powerful workflows. I contributed to the delivery of the BGN live media and data streaming platform for events like *Formula 1* and *MotoGP*. I played a pivotal role in introducing modern data engineering tools and practices and in designing UI/UX for the main application for *Formula 1* and *MotoGP*. I'm also a Moleculer.js source code contributor.
 
@@ -76,7 +76,7 @@ See: [https://bgnelements.com/what-is-elements](https://bgnelements.com/what-is-
 - Linux system administration, especially for Kubernetes deployment, log and resource usage analysis, etc.
 - Managed team organization and communication software like Jira and Slack.
 
-*Skills:* React.js, Node.js, Apache Kafka, TypeScript, JavaScript, Moleculer.js, Kubernetes, Microservices, MongoDB, System Architecture, Test Driven Development, Web Development, Software Development, Back-End Web Development, Front-end Development, Agile Methodologies, Business Strategy, Web Applications, Web Services, Software Documentation, NoSQL, Git, Unix, Python, Docker, ElasticSearch, Continuous Integration, Communication, Linux, HTML, HTML5, Cascading Style Sheets (CSS), Cloud Computing, Behavior-Driven Development (BDD).
+*Skills:* React.js, Node.js, Apache Kafka, TypeScript, JavaScript, Moleculer.js, Kubernetes, Microservices, MongoDB, System Architecture, Test Driven Development, Web Development, Software Development, Back-End Web Development, Front-end Development, Agile Methodologies, Business Strategy, Web Applications, Web Services, Software Documentation, NoSQL, Git, Unix, Python, Docker, ElasticSearch, Continuous Integration, Communication, Linux, HTML, HTML5, Cascading Style Sheets (CSS), Cloud Computing, Behaviour-Driven Development (BDD).
 
 #### [Elysium](https://elysium.uk/) - Crowborough (On-site) - ('16 - '18)
 
@@ -86,7 +86,7 @@ See: [https://bgnelements.com/what-is-elements](https://bgnelements.com/what-is-
 - Directly participated in the design, development, and delivery of new features and the maintenance and improvement of live applications.
 - Designed dynamic web applications and websites using Ruby on Rails, SQL, jQuery, Ajax, HTML, CSS, XML, and more.
 - Used Web Services and APIs for communication with other applications and components.
-- Managed customer relationship using Redmine.
+- Managed customer relationships using Redmine.
 
 *Skills:* JavaScript, Ruby, Ruby on Rails, Microservices, SQL, System Architecture, Web Development, Software Development, Back-End Web Development, Front-end Development, Web Applications, Web Services, Software Documentation, Subversion, Unix, jQuery, Communication, Linux, HTML, HTML5, Cascading Style Sheets (CSS).
 
@@ -100,7 +100,7 @@ See: [https://bgnelements.com/what-is-elements](https://bgnelements.com/what-is-
 
 - Agile methodologies.
 - Object-oriented design.
-- Test-driven development (TDD) and behavior-driven development (BDD).
+- Test-driven development (TDD) and behaviour-driven development (BDD).
 - Proficiency in Ruby, JavaScript, and more.
 
 #### Master's Degree @ Universidad de Jaen (Jan '10 - Dec '14)
@@ -117,8 +117,7 @@ See: [https://bgnelements.com/what-is-elements](https://bgnelements.com/what-is-
 
 #### Kafka Streams for Data Processing @ Udemy (Dec '21)
 
-- Hands-On Kafka Streams API.
-- Building and deploying apps with Java.
+- Hands-On Kafka Streams API, Build and Deploy Apps with Java.
 
 ---
 

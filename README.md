@@ -40,7 +40,7 @@ Core Technology Skills:
 
 - JavaScript, TypeScript, Ruby, Python
 
-- React.js, Moleculer.js
+- React.js, Node.js
 
 - AWS – main AWS cloud services
 

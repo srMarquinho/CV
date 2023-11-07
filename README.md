@@ -18,7 +18,7 @@
 
 ---
 
-Former educator and manager with extensive experience in software development, including warehouse delivery solutions and government job-seeker websites. I have a track record of delivering solutions for high-profile companies, always leveraging cutting-edge technologies and methodologies.
+Former educator and manager with extensive experience in software development, including warehouse delivery solutions, government websites and Formula 1 strategy content delivery. I have a track record of delivering solutions for high-profile companies, always leveraging cutting-edge technologies and methodologies.
 
 Currently, at Mizaic, I'm revolutionizing the clinician-patient experience by developing an Electronic Document Management System tailored for the NHS. I transform physical, unstructured, and legacy records into digital, organized, searchable, and shareable content.
 

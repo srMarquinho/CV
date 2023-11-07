@@ -16,11 +16,13 @@
 
 ----------
 
-With many years of experience, I started my career with a software development company creating and maintaining software of all sorts, user and admin-facing, from warehouse delivery solutions to a government job-seeker site.
+Former educator and manager with many years of experience, I began my career at a software development company, where I created and maintained various types of software – both user and admin-facing. These ranged from warehouse delivery solutions to a government job-seeker website.
 
-Since then, I have been delivering solutions for high-profile companies and customers always using the best cutting-edge technologies and methodologies available.
+Since then, I have been delivering solutions for high-profile companies and customers, always utilizing the latest cutting-edge technologies and methodologies.
 
-Over the last 5 years, I have been powering the combination of media and data sources and the building of new content experiences for users through a unique powerful workflow. Integrating multiple live data sources, from live HD high frame rate video to high-frequency telemetry and timing with consistent accessible data query APIs.
+Currently at Mizaic, I have been revolutionizing the clinician-patient experience at the point of care. I have helped develop an Electronic Document Management System tailored for the NHS. Transforming physical, unstructured and legacy records from multiple systems, into digital, organised, searchable and shareable content.
+
+Previously, for over five years, I powered the integration of media and data sources, building new content experiences for users through uniquely powerful workflows. This involved integrating multiple live data sources, including live HD high-frame rate video and high-frequency telemetry. These were integrated with consistent and accessible data query APIs.
 
 Key Achievements:
 
@@ -60,9 +62,44 @@ I'm passionate about learning new technologies as they evolve.
 
 ### <a name="experience"></a>Relevant Experiences
 
-##### [Bspoke Global Networks Ltd (BGN)](http://bgnevents.com/) - Hove - ('18 - present)
+##### [Mizaic](https://www.mizaic.com/) - Chelmsford (Remote) - ('18 - '23)
 
-Senior Software Engineer
+**Full Stack Senior Software Developer**
+
+See: https://www.mizaic.com/mediviewer/
+
+- Extensive hands-on experience in TypeScript and JavaScript development
+
+- Proficient in Node.js and React
+
+- Strong background in web technologies.
+
+- MongoDB and Redis
+
+- Skilled in working with APIs: GraphQL and REST
+
+- Agile development methodologies
+
+- Docker and Kubernetes
+
+- Linux, Mac OS, and Windows
+
+- NoSQL solutions and cloud storage
+
+- TDD, BDD, Continuous Integration/Continuous
+
+- Delivery/Continuous Deployment
+
+- Mentoring junior team members
+
+- *Skills:* Redis · GraphQL · REST APIs · React.js · Node.js · TypeScript · JavaScript · MongoDB · docker
+
+
+##### [Bspoke Global Networks Ltd (BGN)](http://bgnevents.com/) - Hove (Hybrid) - ('18 - '23)
+
+**Senior Software Engineer**
+
+See: https://bgnelements.com/what-is-elements
 
 - Supporting existing clients and internal teams live on-site (track), including Formula1 and MotoGP.
 
@@ -80,9 +117,9 @@ Senior Software Engineer
 
 - *Skills:* React.js · Node.js · Apache Kafka · TypeScript · JavaScript · moleculer.js · Kubernetes · Microservices · MongoDB · System Architecture · Test Driven Development · Web Development · Software Development · Back-End Web Development · Front-end Development · Agile Methodologies · Business Strategy · Web Applications · Web Services · Software Documentation · NoSQL · Git · Unix · Python · docker · ElasticSearch · Continuous Integration · Communication · Linux · HTML · HTML5 · Cascading Style Sheets (CSS) · Cloud Computing · Behavior-Driven Development (BDD)
 
-##### [Elysium](https://elysium.uk/) - Crowborough - ('16 - '18)
+##### [Elysium](https://elysium.uk/) - Crowborough (On-site) - ('16 - '18)
 
-Software Developer
+**Software Developer**
 
 - Involved in projects of all shapes and sizes.
 

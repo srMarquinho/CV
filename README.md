@@ -41,7 +41,7 @@ I'm passionate about learning new technologies as they evolve.
 
 ---
 
-### <a name="experience"></a>Relevant Experiences
+## <a name="experience"></a>Relevant Experiences
 
 #### [Mizaic](https://www.mizaic.com/) - Chelmsford (Remote) - ('23 - current)
 
@@ -114,7 +114,7 @@ See: [https://bgnelements.com/what-is-elements](https://bgnelements.com/what-is-
 
 ---
 
-### <a name="courses"></a>Relevant Courses
+## <a name="courses"></a>Relevant Courses
 
 #### Kafka Streams for Data Processing @ Udemy (Dec '21)
 
@@ -122,14 +122,14 @@ See: [https://bgnelements.com/what-is-elements](https://bgnelements.com/what-is-
 
 ---
 
-### <a name="projects"></a>Personal Projects
+## <a name="projects"></a>Personal Projects
 
 - [ultimate-dividend-portfolio](https://srmarquinho.github.io/ultimate-dividend-portfolio/)
 - More on [GitHub](https://github.com/srMarquinho)
 
 ---
 
-### <a name="hobbies"></a>Hobbies and Interests
+## <a name="hobbies"></a>Hobbies and Interests
 
 - Proficient drummer.
 - Enjoy go-karting and snowboarding.
@@ -137,7 +137,7 @@ See: [https://bgnelements.com/what-is-elements](https://bgnelements.com/what-is-
 
 ---
 
-### <a name="contact"></a>:shipit: Find me!
+## <a name="contact"></a>:shipit: Find me!
 
 - :octocat: [GitHub](https://github.com/srMarquinho)
 - :mag: [LinkedIn](https://www.linkedin.com/in/srMarquinho)

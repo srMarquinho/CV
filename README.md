@@ -171,7 +171,9 @@ See: [https://bgnelements.com/what-is-elements](https://bgnelements.com/what-is-
 
 ### <a name="projects"></a>Personal Projects
 
-* Available on Github: https://github.com/srMarquinho
+* [ultimate-dividend-portfolio -> https://srmarquinho.github.io/ultimate-dividend-portfolio/](https://srmarquinho.github.io/ultimate-dividend-portfolio/)
+
+* [More on Github: https://github.com/srMarquinho](https://github.com/srMarquinho)
 
 ----------
 

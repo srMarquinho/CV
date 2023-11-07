@@ -1,6 +1,4 @@
-# Marco Araujo
-
-[![Codewars Profile](https://www.codewars.com/users/srMarquinho/badges/micro)](https://www.codewars.com/users/srMarquinho)
+# Marco Araujo <a href="https://www.codewars.com/users/srMarquinho"><img align="right" src="https://www.codewars.com/users/srMarquinho/badges/micro"></a>
 
 <p align="center">
   <a href="#experience">Relevant Experiences</a>

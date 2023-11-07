@@ -14,6 +14,8 @@
   <a href="#contact">Contact</a>
 </p>
 
+[:printer: **PDF**](https://drive.google.com/file/d/1c2b-nEEdHw8bjUmuke9aR20GeP3xekyp/view?usp=sharing)
+
 ---
 
 Former educator and manager with extensive experience in software development, including warehouse delivery solutions and government job-seeker websites. I have a track record of delivering solutions for high-profile companies, always leveraging cutting-edge technologies and methodologies.
@@ -138,5 +140,6 @@ See: [https://bgnelements.com/what-is-elements](https://bgnelements.com/what-is-
 
 - :octocat: [GitHub](https://github.com/srMarquinho)
 - :mag: [LinkedIn](https://www.linkedin.com/in/srMarquinho)
+- :printer: [**Download a PDF version of this CV**](https://drive.google.com/file/d/1c2b-nEEdHw8bjUmuke9aR20GeP3xekyp/view?usp=sharing)
 
 <p align="center">I care.</p>

@@ -19,23 +19,27 @@
 
 ----
 
-Former educator and manager with extensive experience in software development, including warehouse delivery solutions, government websites and Formula 1 strategy content delivery. I have a track record of delivering solutions for high-profile companies, always leveraging cutting-edge technologies and methodologies.
+With a diverse background as an educator and manager, I bring extensive experience in software development, having successfully delivered projects for high-profile companies in areas such as warehouse delivery solutions, government websites, "Formula 1" strategy content delivery and the "NHS" providing a DMS solution. My career is marked by leveraging cutting-edge technologies and methodologies to deliver innovative solutions.
 
-Currently, at Mizaic, I'm revolutionizing the clinician-patient experience by developing an Electronic Document Management System tailored for the NHS. I transform physical, unstructured, and legacy records into digital, organized, searchable, and shareable content.
+Current Role:
 
-In my previous role at Bspoke Global Networks Ltd (BGN), I powered the integration of media and data sources, building new content experiences for users through powerful workflows. I contributed to the delivery of the BGN live media and data streaming platform for events like *Formula 1* and *MotoGP*. I played a pivotal role in introducing modern data engineering tools and practices and in designing UI/UX for the main application for *Formula 1* and *MotoGP*. I'm also a Moleculer.js source code contributor.
+At Songtradr, I contribute to transforming the B2B music industry through innovative technology and creativity. Empowering clients such as Google, Adidas, Netflix, VRBO, and Fenty to grow their businesses and foster positive brand affinity with their audiences through the power of music.
 
-**Key Achievements:**
+Previous Experience
 
-- Delivered BGN live media and data streaming platform for *Formula 1* and *MotoGP*.
-- Introduced modern data engineering tools and practices.
-- Designed UI/UX for *Formula 1* and *MotoGP* applications.
-- Provided mentoring to the team throughout project execution.
+In my role at Bspoke Global Networks Ltd (BGN), I was instrumental in integrating media and data sources to create new content experiences through robust workflows. I contributed to the development of the BGN live media and data streaming platform for prestigious events such as Formula 1, Formula E and MotoGP. I played a pivotal role in introducing modern data engineering tools and practices and in designing the UI/UX for the main application used in these events. Additionally, I am a Moleculer.js source code contributor.
 
-**Core Technology Skills:**
+Key Achievements:
 
-- Languages: JavaScript, TypeScript, Ruby, Python
-- Technologies: React.js, Node.js, AWS, Messaging (Apache Kafka, RabbitMQ, AMQP), Docker, Kubernetes, CI/CD (Bitbucket pipeline, GitHub Actions), Databases (Mongo, Elasticsearch, SQL), Microservices, Complex events, and streaming data processing.
+Delivered the BGN live media and data streaming platform for Formula 1 and MotoGP.
+Introduced modern data engineering tools and practices, enhancing workflow efficiency.
+Designed intuitive UI/UX for applications used in Formula 1 and MotoGP.
+Provided mentoring and leadership to the team throughout project execution.
+
+Core Technology Skills:
+
+Languages: JavaScript, TypeScript, Ruby, Python
+Technologies: React.js, Node.js, AWS, Messaging (Apache Kafka, RabbitMQ, AMQP), Docker, Kubernetes, CI/CD (Bitbucket Pipeline, GitHub Actions), Databases (MongoDB, Elasticsearch, SQL), Microservices, Complex Event Processing, and Streaming Data Processing
 
 I'm passionate about learning new technologies as they evolve.
 
@@ -43,7 +47,29 @@ I'm passionate about learning new technologies as they evolve.
 
 ## <a name="experience"></a>Relevant Experiences
 
-#### [Mizaic](https://www.mizaic.com/) - Chelmsford (Remote) - ('23 - current)
+#### [Songtradr](https://www.songtradr.com/) - London (Remote) - ('24 - current)
+
+**Developer**
+
+See: [https://www.songtradr.com/about/](https://www.songtradr.com/about)
+
+- Node.js
+- Linux
+- AWS
+- Serverless
+- Messages Queues
+- Relational Databases
+- NoSQL & Object storage
+- Containers
+- Infrastructure as Code
+- Observability
+- Scripting
+- TDD, BDD, Continuous Integration/Continuous Delivery.
+- Pair programing.
+
+*Skills:* REST APIs, Node.js, JavaScript, Bash, Make, Docker, PostgreSQL, AWS DocumentDB.
+
+#### [Mizaic](https://www.mizaic.com/) - Chelmsford (Remote) - ('23 - '24)
 
 **Full Stack Senior Software Developer**
 

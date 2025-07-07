@@ -1,6 +1,6 @@
 # Marco Araujo <a href="https://www.codewars.com/users/srMarquinho"><img align="right" src="https://www.codewars.com/users/srMarquinho/badges/micro"></a>
 
-[:printer: **PDF**](https://drive.google.com/file/d/1KcB17kz-8IphEiEmx4M-d-r64txf_aTb/view?usp=sharing)
+[:printer: **PDF**](https://drive.google.com/file/d/1hmXhPcEUtimMKmX9QEwbdaIGsJBd86CP/view?usp=sharing)
 
 <p align="center">
   <a href="#experience">Experiences</a>
@@ -19,24 +19,19 @@
 
 ----
 
-With a diverse background as an educator and manager, I bring extensive experience in software development, having successfully delivered projects for high-profile companies in areas such as warehouse delivery solutions, government websites, Formula 1 strategy content delivery and the NHS going digital. My career is marked by leveraging cutting-edge technologies and methodologies to deliver innovative solutions.
+**Senior Full-Stack Software Engineer**
 
-At Songtradr, I contribute to transforming the B2B music industry through innovative technology and creativity. Empowering clients such as Google, Adidas, Netflix, VRBO, and Fenty to grow their businesses and foster positive brand affinity with their audiences through the power of music.
+With a broad background in software development, I’ve delivered projects across diverse sectors, such as warehouse logistics, government websites, digital healthcare and real-time media systems. I focus on using the right tools for the job, avoiding unnecessary complexity, and delivering clean, maintainable solutions. My work often blends cutting-edge tech with a pragmatic mindset.
 
-In my role at Bspoke Global Networks Ltd (BGN), I integrated media and data sources to create new content experiences through robust workflows. I contributed to the development of BGN's live media and data streaming platform for prestigious events such as Formula 1, Formula E, MotoGP, and Sky TV. I played a pivotal role in introducing modern data engineering tools and practices and in designing the UI/UX for the main application used in these events.
+At Songtradr, I’m helping transform the B2B music space through fast-paced and focused development. We work in a highly collaborative XP-style environment, using practices such as pair programming and TDD. My work is essential in exposing APIs and building out event-based data streams to support music licensing and catalogue access.
 
-- Key Achievements: -
-
-Transformed physical, unstructured and legacy records from multiple systems into digital, organised, searchable and shareable content for the NHS.
-
-Delivered a live media and data streaming platform for Formula 1, Formula E, MotoGP and Sky.
-Introduced modern data engineering tools and practices, enhancing workflow efficiency.
-
-Designed intuitive UI/UX for applications used in Formula 1 and MotoGP.
-
-Provided mentoring and leadership to the team throughout project execution.
+Previously at Bspoke Global Networks (BGN), I worked on integrating media (audio/video) and data sources to build tools and workflows for major clients, including Formula 1, Formula E, MotoGP, and Sky TV. I contributed to BGN’s live media and data streaming platform, which supported high-profile broadcast operations. I also introduced modern data engineering practices into the team and designed the UI/UX for the core application used across these clients.
 
 I'm not only passionate about learning new technologies as they evolve, but also about what I do.
+
+Check a fancy up-to-date version of this CV at srmarquinho.github.io/CV/
+
+ I care!
 
 ----
 
@@ -44,75 +39,55 @@ I'm not only passionate about learning new technologies as they evolve, but also
 
 #### [Songtradr](https://www.songtradr.com/) - London (Remote) - ('24 - current)
 
-**Developer**
+At Songtradr, (Bandcamp and MassiveMusic) I work across music-tech platforms. These platforms reach hundreds of millions of users, with systems designed to deliver 99.9%+ uptime and handle high-throughput APIs.
 
-See: [7digital](https://www.7digital.com/about-us/)
-
-My experience leverages leading apps in fitness, social, radio, gaming and background music that use 7digital’s API services to power music experiences that are engaging customers worldwide.
-
-I helped our systems and APIs serve clients with hundreds of millions of active users with 99.9%+ uptime.
-
-Developed API endpoints and real-time messages APIs with AWS tools and infrastructure.
-
-Mostly Node.js with occasional C# .net and vanilla JavaScript for frontend apps.
-
-Also part of:
-- [Bandcamp](https://bandcamp.com/)
-- [MassiveMusic](https://massivemusic.com/)
-
-*Skills:* REST APIs, Node.js, JavaScript, Bash, Make, Docker, PostgreSQL, AWS DocumentDB.
+Contributed to the development and maintenance of robust APIs and real-time messaging services using Infrastructure as Code in AWS infrastructure. Built and maintained scalable backend services in Node.js, with occasional contributions in other languages and frameworks and Lit for frontend components. Helped ensure our API services remain responsive and reliable at scale, collaborating closely with cross-functional teams in a fully remote environment.
 
 #### [Mizaic](https://www.mizaic.com/) - Chelmsford (Remote) - ('23 - '24) 1 year
 
-**Full Stack Senior Software Developer**
-
 See: [https://www.mizaic.com/mediviewer/](https://www.mizaic.com/mediviewer/)
 
-As a full-stack software developer, I helped transform physical, unstructured and legacy records from multiple systems into digital, organised, searchable and shareable content. Proudly enhanced our environmental agenda and journey to paperless, by lowering the carbon footprint of our hospitals.
+I helped transform physical, unstructured, and legacy records from multiple systems into digital, organised, searchable, and shareable content. A key part of my work contributed to our environmental goals by advancing paperless processes and helping reduce the carbon footprint across hospital networks.
 
-Extensive experience in TypeScript and JavaScript development, and proficient in Node.js and React, helped by mentoring junior team members.
+I worked extensively with TypeScript and JavaScript, primarily using Node.js for backend development and React for frontend applications. My experience also includes designing and implementing GraphQL APIs and integrating them with React clients.
 
-Mostly but not only utilized Typescript, NoSQL databases such as MongoDB with a layer of GraphQL for the APIs and with the GraphQL API, React in Typescript.
+Mentoring junior developers was a rewarding part of the role, helping grow team skills and fostering collaboration.
 
-*Skills:* Redis, GraphQL, REST APIs, React.js, Node.js, TypeScript, JavaScript, MongoDB, Docker.
+*Skills:* Redis, GraphQL, REST APIs, React.js, Node.js, TypeScript, JavaScript, MongoDB, Docker, Tailwind CSS.
 
 #### [Bspoke Global Networks Ltd (BGN)](http://bgnevents.com/) - Hove (Hybrid) - ('18 - '23) 5 years and 6 months
 
-**Senior Software Engineer**
-
 See: [https://bgnelements.com/what-is-elements](https://bgnelements.com/what-is-elements)
 
-Supported existing clients and internal teams live on-site, including Formula 1, Formula E, MotoGP and Sky TV.
+BGN is where I developed most of my technical skills and experience. I had the rare opportunity to be involved from the ground up, contributing to the architecture of a large-scale software platform. This allowed me to make key technical decisions from early design choices to long-term infrastructure planning that continue to support the platform today.
 
-Developed and supported software microservices in an optimized distributed environment, including cloud-based technologies and data centres.
+I designed, developed, and maintained microservices in a distributed, performance-focused environment, deployed across cloud platforms and data centres. My backend work was primarily in Node.js, using modern server-side JavaScript libraries and architecture patterns.
 
-Worked on UI / UX design, JavaScript / TypeScript (i.e. React).
+On the frontend, I contributed to the UI/UX design and implementation using React with JavaScript and TypeScript, working closely with both product and editorial teams.
 
-Proficient in Node.js and associated server-side JavaScript libraries and architecture patterns.
+I also worked on-site, supporting high-pressure live operations for major clients, including Formula 1, Formula E, MotoGP, and Sky TV, to help deliver reliable, real-time media and data streams during globally broadcast events.
 
-Utilized NoSQL databases such as MongoDB and Elasticsearch.
+Other key contributions:
+Managed high-volume data with MongoDB and Elasticsearch.
+Administered Linux environments and deployed applications with Kubernetes.
+Prometheus and Grafana to monitor performance and optimise system resource usage.
+Maintained smooth team workflows through Jira, Slack, and documentation tools.
 
-Linux system administration, especially for Kubernetes deployment
-
-Log and resource usage analysis (i.e. Prometheus Grafana)
-
-Managed team organization and communication software (Jira and Slack).
-
-*Skills:* React.js, Node.js, Apache Kafka, TypeScript, JavaScript, Moleculer.js, Kubernetes, Microservices, MongoDB, System Architecture, Test Driven Development, Web Development, Software Development, Back-End Web Development, Front-end Development, Agile Methodologies, Business Strategy, Web Applications, Web Services, Software Documentation, NoSQL, Git, Unix, Python, Docker, ElasticSearch, Continuous Integration, Communication, Linux, HTML, HTML5, Cascading Style Sheets (CSS), Cloud Computing, Behaviour-Driven Development (BDD).
+*Skills:* React.js, Node.js, Apache Kafka, TypeScript, JavaScript, Moleculer.js, Kubernetes, Microservices, MongoDB, System Architecture, Test Driven Development, Web Development, Software Development, Back-End Web Development, Front-end Development, Agile Methodologies, Business Strategy, Web Applications, Web Services, Software Documentation, NoSQL, Git, Unix, Python, Docker, ElasticSearch, Continuous Integration, Communication, Linux, HTML, HTML5, Cascading Style Sheets (CSS), Cloud Computing, Behaviour-Driven Development (BDD), MaterialUI.
 
 #### [Elysium](https://elysium.uk/) - Crowborough (On-site) - ('16 - '18) 2 years
 
-**Software Developer**
+As a full-stack developer at Elysium Ltd, I contributed to the full lifecycle of web applications — from design and development to deployment and ongoing maintenance. My work focused on delivering reliable, responsive solutions tailored to the needs of a varied client base.
 
-Directly participated in the design, development, and delivery of new features and the maintenance and improvement of live applications.
+Designed and developed dynamic web applications and websites using Ruby on Rails, backed by relational databases.
 
-Designed dynamic full-stack web applications and websites using Ruby on Rails with relational databases.
+Delivered new features and enhancements while supporting and improving live applications to maintain performance and stability.
 
-Involved in projects for a diverse list of clients from different industries.
+Collaborated with clients across multiple industries, adjusting architecture and implementation to suit each unique use case.
 
-Used Web Services and APIs for communication with other applications and components.
+Integrated Web Services and APIs to enable seamless communication between system components.
 
-Managed customer relationships using a bespoke self-managed Redmine.
+Helped manage customer relationships and support tickets using a self-hosted Redmine system, keeping project delivery transparent and responsive.
 
 *Skills:* JavaScript, Ruby, Ruby on Rails, Microservices, SQL, System Architecture, Web Development, Software Development, Back-End Web Development, Front-end Development, Web Applications, Web Services, Software Documentation, Subversion, Unix, jQuery, Communication, Linux, HTML, HTML5, Cascading Style Sheets (CSS).
 
@@ -141,9 +116,13 @@ Managed customer relationships using a bespoke self-managed Redmine.
 
 ## <a name="courses"></a>Relevant Courses
 
-#### Kafka Streams for Data Processing @ Udemy (Dec '21)
+#### Kafka Streams for Data Processing
 
-- Hands-On Kafka Streams API, Build and Deploy Apps with Java.
+- Hands-On Kafka Streams API, Build and Deploy Apps.
+
+#### System Design Fundamentals
+
+- Software design from the architect Juval Löwy.
 
 ----
 
@@ -164,7 +143,7 @@ Managed customer relationships using a bespoke self-managed Redmine.
 
 ## <a name="contact"></a>:shipit: Find me!
 
-- :octocat: [GitHub](https://github.com/srMarquinho)
+- :bust_in_silhouette: [GitHub](https://github.com/srMarquinho)
 - :mag: [LinkedIn](https://www.linkedin.com/in/srMarquinho)
 - :printer: [**Download a PDF version of this CV**](https://drive.google.com/file/d/1c2b-nEEdHw8bjUmuke9aR20GeP3xekyp/view?usp=sharing)
 

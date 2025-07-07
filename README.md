@@ -1,6 +1,6 @@
 # Marco Araujo <a href="https://www.codewars.com/users/srMarquinho"><img align="right" src="https://www.codewars.com/users/srMarquinho/badges/micro"></a>
 
-[:printer: **PDF**](https://drive.google.com/file/d/1hmXhPcEUtimMKmX9QEwbdaIGsJBd86CP/view?usp=sharing)
+[:printer: **PDF**](https://drive.google.com/uc?export=download&id=1hmXhPcEUtimMKmX9QEwbdaIGsJBd86CP)
 
 <p align="center">
   <a href="#experience">Experiences</a>
@@ -141,10 +141,10 @@ Helped manage customer relationships and support tickets using a self-hosted Red
 
 ----
 
-## <a name="contact"></a>:shipit: Find me!
+## <a name="contact"></a>:Find me!
 
 - :bust_in_silhouette: [GitHub](https://github.com/srMarquinho)
 - :mag: [LinkedIn](https://www.linkedin.com/in/srMarquinho)
-- :printer: [**Download a PDF version of this CV**](https://drive.google.com/file/d/1hmXhPcEUtimMKmX9QEwbdaIGsJBd86CP/view?usp=sharing)
+- :printer: [**Download a PDF version of this CV**](https://drive.google.com/uc?export=download&id=1hmXhPcEUtimMKmX9QEwbdaIGsJBd86CP)
 
 <p align="center">I care.</p>

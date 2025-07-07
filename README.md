@@ -145,6 +145,6 @@ Helped manage customer relationships and support tickets using a self-hosted Red
 
 - :bust_in_silhouette: [GitHub](https://github.com/srMarquinho)
 - :mag: [LinkedIn](https://www.linkedin.com/in/srMarquinho)
-- :printer: [**Download a PDF version of this CV**](https://drive.google.com/file/d/1c2b-nEEdHw8bjUmuke9aR20GeP3xekyp/view?usp=sharing)
+- :printer: [**Download a PDF version of this CV**](https://drive.google.com/file/d/1hmXhPcEUtimMKmX9QEwbdaIGsJBd86CP/view?usp=sharing)
 
 <p align="center">I care.</p>

@@ -38,7 +38,7 @@ Check a fancy up-to-date version of this CV at srmarquinho.github.io/CV/
 ## <a name="experience"></a>Relevant Experiences
 
 
-#### [ControlUp](https://www.controlup.com/) - ('25 - Present)
+#### [ControlUp](https://www.controlup.com/) - Global (Remote) - ('25 - Present)
 
 I design and develop next-generation features for ControlUp’s real-time DEX platform, building clean, efficient, and high-performance experiences across both the front end and backend. On the front end, I work with React, TypeScript, and modern design patterns to deliver scalable and intuitive UI components. On the backend, I design and implement Node.js services in TypeScript, focusing on reliability, performance, and seamless integration across our micro-frontend ecosystem.
 

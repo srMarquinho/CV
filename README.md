@@ -37,7 +37,16 @@ Check a fancy up-to-date version of this CV at srmarquinho.github.io/CV/
 
 ## <a name="experience"></a>Relevant Experiences
 
-#### [Songtradr](https://www.songtradr.com/) - London (Remote) - ('24 - current)
+
+#### [ControlUp](https://www.controlup.com/) - ('25 - Present)
+
+I design and develop next-generation features for ControlUp’s real-time DEX platform, building clean, efficient, and high-performance experiences across both the front end and backend. On the front end, I work with React, TypeScript, and modern design patterns to deliver scalable and intuitive UI components. On the backend, I design and implement Node.js services in TypeScript, focusing on reliability, performance, and seamless integration across our micro-frontend ecosystem.
+
+I support the R&D team by helping teammates solve complex technical challenges, sharing knowledge, and contributing to architectural discussions. I actively look for ways to improve workflows, tooling, and engineering practices so the team can move faster and deliver better-quality software together.
+
+I collaborate closely with Product, Engineering, and Automation to deliver features that enhance user experience, platform performance, and overall system quality. I participate in Agile processes, contribute to testing practices (including Jest), and help foster a culture of ownership, learning, and continuous improvement.
+
+#### [Songtradr](https://www.songtradr.com/) - London (Remote) - ('24 - '25)
 
 At Songtradr, (Bandcamp and MassiveMusic) I work across music-tech platforms. These platforms reach hundreds of millions of users, with systems designed to deliver 99.9%+ uptime and handle high-throughput APIs.
 
